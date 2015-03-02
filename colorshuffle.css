@@ -1,0 +1,15 @@
+.color {
+	line-height: 1px;
+}
+
+audio {
+	display:inline-block;
+    margin-right: 50px;
+    margin-left: 20px;
+}
+
+div {
+	display:inline-block;
+	font-family: 'Lobster', cursive;
+	font-size: 2em;
+}
